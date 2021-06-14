@@ -7,6 +7,6 @@
 
 วิดีโอที่ฉันอยากเรียนถ้ามีเวลาว่างจริงๆ:octocat:<br>
 [สอน foor loop เข้าใจง่าย](https://www.youtube.com/watch?v=x8Bh-0g9drQ)<br>
-[]()<br>
+[การใช้เครื่องหมาย file__init__.py ](https://www.youtube.com/watch?v=PQG7HGqoLDM)<br>
 []()<br>
 []()<br>
