@@ -7,7 +7,7 @@
 [Teerawat Prakobphon](https://www.youtube.com/channel/UCTbzxGATuVvyHQLdCQjDJiA)<br>
 [Naruebet Chuabankoh](https://www.youtube.com/channel/UCw7N3fY0nnCfHikh-FJgpxA/videos)<br>
 [Techcast](https://www.youtube.com/c/Techcast/videos)<br>
-
+[Ajarn1](https://www.youtube.com/channel/UC-wVeKol7IDmP6thl_fDdJA/videos)<br>
 
 วิดีโอที่ฉันอยากเรียนถ้ามีเวลาว่างจริงๆ:octocat:<br>
 [สอน foor loop เข้าใจง่าย](https://www.youtube.com/watch?v=x8Bh-0g9drQ)<br>
